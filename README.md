@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/8x8is/8x8is.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
